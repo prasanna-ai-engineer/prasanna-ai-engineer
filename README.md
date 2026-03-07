@@ -3,7 +3,7 @@
 ### 🤖 AI / Machine Learning Enthusiast | Software Engineer at HCLTech
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer+in+Progress;Exploring+LLMs+and+Agentic+AI;Building+AI+Powered+Systems;Future+Machine+Learning+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=#093523&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer+in+Progress;Exploring+LLMs+and+Agentic+AI;Building+AI+Powered+Systems;Future+Machine+Learning+Engineer" />
 </p>
 
 ---
