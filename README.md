@@ -96,14 +96,14 @@ Projects I'm building or planning:
 <p align="center">
   <img src="https://github.com/prasanna-ai-engineer/prasanna-ai-engineer/blob/output/github-snake.svg" />
 </p>
-
-<p align="center">
+<!we can use the below two p's if we want to change the theme of the snake -->
+<!-- <p align="center">
   <img src="https://github.com/prasanna-ai-engineer/prasanna-ai-engineer/blob/output/github-snake-dark.svg" />
 </p>
 
 <p align="center">
   <img src="https://github.com/prasanna-ai-engineer/prasanna-ai-engineer/blob/output/ocean.gif" />
-</p>
+</p> -->
 
 ---
 
