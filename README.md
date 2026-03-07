@@ -94,7 +94,15 @@ Projects I'm building or planning:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/prasanna-ai-engineer/prasanna-ai-engineer/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/prasanna-ai-engineer/prasanna-ai-engineer/blob/output/github-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/prasanna-ai-engineer/prasanna-ai-engineer/blob/output/github-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/prasanna-ai-engineer/prasanna-ai-engineer/blob/output/ocean.gif" />
 </p>
 
 ---
