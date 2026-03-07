@@ -73,11 +73,11 @@ Projects I'm building or planning:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prasanna-ai-engineer&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna-ai-engineer&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna-ai-engineer&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,7 +86,7 @@ Projects I'm building or planning:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanna-ai-engineer&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ Projects I'm building or planning:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/prasanna-ai-engineer/prasanna-ai-engineer/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ Projects I'm building or planning:
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=prasanna-ai-engineer&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
